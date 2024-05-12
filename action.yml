@@ -1,4 +1,4 @@
-name: "my joke action"
+name: "My joke action by Neung"
 
 description: "use an external API to retrieve and display a joke"
 
@@ -9,3 +9,7 @@ outputs:
 runs:
   using: "node16"
   main: "main.js"
+
+branding:
+  icon: 'cast'
+  color: 'yellow'
